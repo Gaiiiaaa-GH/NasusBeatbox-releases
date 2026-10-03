@@ -24,7 +24,9 @@ L'application demande comment tu veux t'en servir :
 
 - **À plusieurs** — colle le code de partage que t'a donné la personne qui l'a
   déjà installée, et c'est fini.
-- **Tout seul** — pas encore disponible, prévu pour la v0.3.
+- **Tout seul** — tes comptes restent dans un fichier sur ton PC. Rien à créer
+  nulle part. Ajoute ta propre clé API Riot si tu veux que les rangs se mettent à jour
+  seuls ; sans elle, l'app range tes comptes et les lance.
 
 ## Mises à jour
 
